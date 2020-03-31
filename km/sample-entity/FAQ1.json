@@ -1,0 +1,10 @@
+{
+  "$id": "FAQ1",
+  "$schema": "https://schema.yext.com/config/km/sample-entity/v1",
+  "entityType": "faq",
+  "content": {
+    "c_activeOnAnswers": true,
+    "yext.answer": "Yext is a software company headquartered in New York, NY.",
+    "yext.name": "Yext FAQ"
+  }
+}

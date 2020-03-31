@@ -1,0 +1,12 @@
+{
+  "$id": "activeOnAnswers",
+  "$schema": "https://schema.yext.com/config/km/custom-field/v1",
+  "displayName": "Active on Answers",
+  "apiName": "c_activeOnAnswers",
+  "typeId": "type.boolean",
+  "type": {
+    "booleanType": {}
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}
